@@ -1,0 +1,2 @@
+# dbmsadminpriv
+my private file
